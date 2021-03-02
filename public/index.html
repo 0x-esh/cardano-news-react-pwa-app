@@ -1,40 +1,72 @@
 <!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="theme-color" content="#000000" />
-    <meta name="description" content="Web site created using create-react-app" />
-    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
-    <!--
-      manifest.json provides metadata used when your web app is installed on a
-      user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
-    -->
-    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
-    <!--
-      Notice the use of %PUBLIC_URL% in the tags above.
-      It will be replaced with the URL of the `public` folder during the build.
-      Only files inside the `public` folder can be referenced from the HTML.
+<html lang="pt-br">
 
-      Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will
-      work correctly both with client-side routing and a non-root public URL.
-      Learn how to configure a non-root public URL by running `npm run build`.
-    -->
-    <title>React App</title>
-  </head>
-  <body>
-    <noscript>You need to enable JavaScript to run this app.</noscript>
-    <div id="root"></div>
-    <!--
-      This HTML file is a template.
-      If you open it directly in the browser, you will see an empty page.
+<head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <meta name="description" content="Web site created using create-react-app" />
+  <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
+  <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+  <title>Cardano News</title>
+  <link href="https://unpkg.com/tailwindcss/dist/tailwind.min.css" rel="stylesheet">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css" rel="stylesheet">
+</head>
 
-      You can add webfonts, meta tags, or analytics to this file.
-      The build step will place the bundled scripts into the <body> tag.
+<body>
+  <noscript>You need to enable JavaScript to run this app.</noscript>
 
-      To begin the development, run `npm start` or `yarn start`.
-      To create a production bundle, use `npm run build` or `yarn build`.
-    -->
+  <body class="bg-gray-200 font-sans leading-normal tracking-normal">
+
+    <div class="w-full m-0 p-0 bg-cover bg-bottom"
+      style="background-image:url('cover.jpg'); height: 60vh; max-height:460px;">
+      <div class="container max-w-4xl mx-auto pt-16 md:pt-32 text-center break-normal">
+        <p class="text-white font-extrabold text-3xl md:text-5xl">Notícias do dia sobre Cardano</p>
+        <p class="text-xl md:text-2xl text-gray-500">por jeferson ferreira</p>
+      </div>
+    </div>
+
+    <div class="container px-4 md:px-0 max-w-6xl mx-auto -mt-32">
+
+      <div class="mx-0 sm:mx-6">
+
+        <nav class="mt-0 w-full">
+          <div class="container mx-auto flex items-center">
+  
+            <div class="flex w-1/2 pl-4 text-sm">
+              <ul class="list-reset flex justify-between flex-1 md:flex-none items-center">
+                <li class="mr-2">
+                  <a class="inline-block text-gray-600 no-underline hover:text-gray-200 hover:underline py-2 px-2"
+                    href="https://github.com/jeferson0993/">GITHUB</a>
+                </li>
+                <li class="mr-2">
+                  
+                </li>
+              </ul>
+            </div>  
+  
+            <div class="flex w-1/2 justify-end content-center">
+              <ul class="list-reset flex justify-between flex-1 md:flex-none items-center">
+                <li class="mr-2">
+
+                </li>
+                <li class="mr-2">
+                  <a class="inline-block text-gray-600 no-underline hover:text-gray-200 hover:underline py-2 px-2"
+                    href="https://www.linkedin.com/in/jeferson0993/">LINKEDIN</a>
+                </li>
+              </ul>
+            </div>
+  
+          </div>
+        </nav>
+        
+        <div id="root"></div>
+
+      </div>
+
+    </div>
+
   </body>
+
 </html>
