@@ -19,7 +19,7 @@
     A companhe notícias do dia sobre (ADA) Cardano e outras cryptomoedas em  (PT-BR | BRL R$).
     <br />
     <br />
-    <a href="https://5a1aa877.cardano-news-react-pwa-app.pages.dev/">Ir ao site</a>
+    <a href="https://f3bb31d1.cardano-news-react-pwa-app.pages.dev/">Ir ao site</a>
     ·
     <a href="https://github.com/jeferson0993/cardano-news-react-pwa-app/issues">Reportar erro</a>
     ·
@@ -93,7 +93,7 @@ Qualquer aparelho computador, tablet e celular com android ou ios, que tenha o n
 <!-- Instalação -->
 ### Demonstração
 
-1. Acesse no [Cloudflare Pages](https://5a1aa877.cardano-news-react-pwa-app.pages.dev/) -> agora sim 😎, falta configurar variaveis de ambiente 👣.
+1. Acesse no [Cloudflare Pages](https://f3bb31d1.cardano-news-react-pwa-app.pages.dev/) -> agora sim 😎, :fire:.
 1. Acesse no [Microsoft Azure](https://cardano-news.azurewebsites.net/) -> demora iniciar a instancia 🤬
 
 <!-- Uso -->
