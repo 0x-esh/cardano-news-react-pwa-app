@@ -58,7 +58,7 @@
 <!-- Sobre o projeto -->
 ## Sobre o projeto
 
-![ReactCardanoNews](https://user-images.githubusercontent.com/29678099/109673791-20f07c00-7b55-11eb-9a30-27cd41b30377.png)<!-- PROJECT SHIELDS -->
+![Screenshot_2021-03-05 Cardano News](https://user-images.githubusercontent.com/29678099/110166721-8782cd80-7dd3-11eb-9bd3-3d27db856561.png)
 
 Cardano (ADA) é uma blockchain pública descentralizada e criptomoeda de código aberto. Ela está prometendo desenvolver um sistema de contratos inteligentes mais avançados que os protocolos existentes.
 
