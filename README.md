@@ -19,7 +19,7 @@
     A companhe notícias do dia sobre (ADA) Cardano e outras cryptomoedas em  (PT-BR | BRL R$).
     <br />
     <br />
-    <a href="https://f3bb31d1.cardano-news-react-pwa-app.pages.dev/">Ir ao site</a>
+    <a href="https://https://cardano-news-react-pwa-app.pages.dev/">Ir ao site</a>
     ·
     <a href="https://github.com/jeferson0993/cardano-news-react-pwa-app/issues">Reportar erro</a>
     ·
@@ -71,7 +71,7 @@ Através deste app é possível acompanhar as notícias do dia sobre cardano.
 Ferramentas e técnologias utilizadas neste projeto:
 * [React js](https://pt-br.reactjs.org/)
 * [Tailwind css](https://tailwindcss.com/)
-* [Microsoft Azure](https://azure.microsoft.com/pt-br/)
+* [Cloudflare](https://dash.cloudflare.com/) e/ou [Microsoft Azure](https://azure.microsoft.com/pt-br/)
 * [Bing News Search api](https://www.microsoft.com/en-us/bing/apis/bing-news-search-api)
 
 
@@ -93,7 +93,7 @@ Qualquer aparelho computador, tablet e celular com android ou ios, que tenha o n
 <!-- Instalação -->
 ### Demonstração
 
-1. Acesse no [Cloudflare Pages](https://f3bb31d1.cardano-news-react-pwa-app.pages.dev/) -> agora sim 😎, :fire:.
+1. Acesse no [Cloudflare Pages](https://cardano-news-react-pwa-app.pages.dev/) -> ai sim 😎, agora vai :fire:.
 1. Acesse no [Microsoft Azure](https://cardano-news.azurewebsites.net/) -> demora iniciar a instancia 🤬
 
 <!-- Uso -->
@@ -112,13 +112,6 @@ Consulte os [problemas abertos](https://github.com/jeferson0993/cardano-news-rea
 ## Contribuindo
 
 As contribuições são o que torna a comunidade de código aberto um lugar incrível para aprender, inspirar e criar. Quaisquer contribuições que você fizer são **muito apreciadas**.
-
-1. Faça o fork do Projeto
-2. Crie uma nove Feature Branch (`git checkout -b feature/SuaNovaFuncionalidade`)
-3. Faça o commit dasr mudancas (`git commit -m 'Adicionado alguma funcionalidade'`)
-4. Faça o  push da Branch (`git push origin feature/SuaNovaFuncionalidade`)
-5. Abra um Pull Request
-
 
 <!-- Licença -->
 ## Licença
